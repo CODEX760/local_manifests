@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="CODEX760"
+          fetch="https://github.com/CODEX760" />
+  
+  <remote name="los"
+          fetch="https://github.com/lineageos" />  
+  
+  <project path="device/oppo/RMX1805" name="RMX1805/device_oppo_RMX1805" remote="github" revision="lineage-18.1" />
+  <project path="vendor/oppo" name="RMX1805/vendor_oppo" remote="github" revision="lineage-18.1" />
+  <project path="packages/apps/RealmeDirac" name="techyminati/android_packages_apps_RealmeDirac" remote="github" revision="master" />
+ 
+</manifest>
